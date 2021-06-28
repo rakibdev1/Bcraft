@@ -1,0 +1,369 @@
+
+
+@media(min-width:991.98px) and (max-width:1200.98px){
+
+     /*======banner part media======*/
+     .item-slider img{
+        height:300px;
+    }
+    .ban-btn {
+        margin-top: 0px;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        padding-top: 3px;
+    }   
+    .banner-content h4 {
+        font-size: 25px;
+    }
+    .ban-btn .btn {
+        padding: 3px 10px;
+        margin-top: 10px;
+
+    }
+
+    /*=====logo part media=========*/
+    .one-type-feature.text-center {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .ban.feature .one-type-feature::after {
+        right: -35%;
+    }
+    /*=====logo part media=========*/
+    /*=====deal part media=========*/
+    .deal-content h5 {
+        font-size: 20px;
+    }
+    .deal-content h2 {
+        font-size: 30px;
+    }
+    .deal-purchase {
+        padding-top: 0;
+    }
+    .deal-content h2 {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    .deal-purchase h2 {
+        padding-bottom: 0px;
+    }
+    .countdown-section {
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .off{
+        display: none;
+    }
+    .deal-color{
+        margin: 0 auto;
+    }
+    /*=====deal part media=========*/
+    /*=====top sell part media=========*/
+    .top-sell-main {
+        padding-top: 40px;
+    }
+    /*=====top sell part media=========*/
+    /*======service part media========*/
+    .just{
+        justify-content: center;
+    }
+    .cent{
+        text-align: center;
+        padding-top: 10px;
+    }
+    /*======service part media========*/
+    .deal-form form {
+        padding: 10px 100px;
+    }
+    /*======================================================blog page=======================================================*/
+    #blog .thumb {
+        padding-right: 160px;
+        padding-left: 10px;
+    }
+    /*======================================================blog page=======================================================*/
+
+}
+
+@media(min-width:767.98px) and (max-width:991.98px){
+     /*======banner part media======*/
+    .item-slider img{
+        height:250px;
+    }
+    .navbar-toggler-icon {
+        color: #EC7A5C;
+    }
+    .banner-content p {
+        display: none;
+    }
+    .ban-btn {
+        margin-top: 0px;
+    }
+    .banner-content h1 {
+        font-size: 23px;
+        padding-top: 3px;
+    }   
+    .banner-content h4 {
+        font-size: 45px;
+    }
+    .ban-btn .btn {
+        padding: 3px 10px;
+        margin-top: 10px;
+
+    }
+    /*=====logo part media=========*/
+    .one-type-feature.text-center {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .ban.feature .one-type-feature::after {
+        right: -35%;
+    }
+    /*=====logo part media=========*/
+    /*=====deal part media=========*/
+    .deal-content h5 {
+        font-size: 20px;
+    }
+    .deal-content h2 {
+        font-size: 30px;
+    }
+    .deal-purchase {
+        padding-top: 0;
+    }
+    .deal-content h2 {
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    .deal-purchase h2 {
+        padding-bottom: 0px;
+    }
+    .countdown-section {
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .off{
+        display: none;
+    }
+    /*=====deal part media=========*/
+    /*=====top sell part media=========*/
+    .top-sell-main {
+        padding-top: 40px;
+    }
+    /*=====top sell part media=========*/
+     /*======service part media========*/
+     .just{
+        justify-content: center;
+    }
+    .cent{
+        text-align: center;
+        padding-top: 10px;
+    }
+    /*======service part media========*/
+    .deal-form form {
+        padding: 10px 135px;
+    }
+
+
+
+
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+
+    .header {
+        margin-top: 65px;
+    }
+    .navbar-toggler-icon {
+        color: #EC7A5C;
+    }
+    /*======Top-bar part media======*/
+    #topbar {
+        display: none;
+    }
+    /*======Top-bar part media======*/
+    /*======ban feature part media======*/
+    .ban.feature {
+        margin-top: 35px;
+    }
+    /*======ban feature part media======*/
+    /*======banner part media======*/
+    .item-slider img{
+        height:200px;
+    }
+    .banner-content p {
+        display: none;
+    }
+    .ban-btn {
+        margin-top: 0px;
+    }
+    .banner-content h1 {
+        font-size: 16px;
+        padding-top: 3px;
+    }   
+    .banner-content h4 {
+        font-size: 30px;
+    }
+    .ban-btn .btn {
+        padding: 0px 8px;
+        margin-top: 10px;
+
+    }
+    /*=====logo part media=========*/
+    .one-type-feature.text-center {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .ban.feature .one-type-feature::after {
+        right: -35%;
+    }
+    /*=====logo part media=========*/
+    /*======catagory part media========*/
+    #catagories {
+        padding-bottom:0
+    }
+    .first-img{
+        margin-bottom: 10px;
+    }
+    /*======catagory part media========*/
+     /*======service part media========*/
+     .just{
+        justify-content: center;
+    }
+    .cent{
+        text-align: center;
+    }
+    /*======service part media========*/
+    /*=======deal form media=======*/
+    .deal-form form {
+        padding: 10px 0;
+    }
+    .deal-content p {
+        font-size: 17px;
+    }
+    .deal-form a {
+        padding: 5px 15px;
+    }
+    /*=======deal form media=======*/
+    /*=======deal form media=======*/
+    .deal-form form {
+        padding: 10px 50px;
+    }
+    .deal-content p {
+        font-size: 17px;
+    }
+    .deal-form a {
+        padding: 5px 15px;
+    }
+    /*=======deal form media=======*/
+
+
+
+
+
+
+}
+
+
+
+@media(max-width:575.98px){
+    .header {
+        margin-top: 65px;
+    }
+    .navbar-toggler-icon {
+        color: #EC7A5C;
+    }
+    /*======Top-bar part media======*/
+    #topbar {
+        display: none;
+    }
+    /*======Top-bar part media======*/
+    /*======ban feature part media======*/
+    .ban.feature {
+        margin-top: 35px;
+    }
+    /*======ban feature part media======*/
+    /*======banner part media======*/
+    .item-slider img{
+        height:200px;
+    }
+    .banner-content p {
+        display: none;
+    }
+    .ban-btn {
+        margin-top: 0px;
+    }
+    .banner-content h1 {
+        font-size: 16px;
+        padding-top: 3px;
+    }   
+    .banner-content h4 {
+        font-size: 30px;
+    }
+    .ban-btn .btn {
+        padding: 0px 8px;
+        margin-top: 10px;
+
+    }
+
+
+    /*=====logo part media=========*/
+    .one-type-feature.text-center {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    .ban.feature .one-type-feature::after {
+        right: -35%;
+    }
+    /*=====logo part media=========*/
+    /*======catagory part media========*/
+    #catagories {
+        padding-bottom:0
+    }
+    .first-img{
+        margin-bottom: 10px;
+    }
+    /*======catagory part media========*/
+    /*======top sell menu part media========*/
+    .top-sell-menu ul li {
+        margin: 5px 10px;
+    }
+    /*======top sell menu part media========*/
+    /*======service part media========*/
+    .just{
+        justify-content: center;
+    }
+    .cent{
+        text-align: center;
+    }
+    .yankee{
+        padding-bottom: 25px !important;
+        padding-top: 25px !important;
+    }
+    /*======service part media========*/
+    /*=======deal form media=======*/
+    .deal-form form {
+        padding: 10px 0;
+    }
+    .deal-content p {
+        font-size: 17px;
+    }
+    .deal-form a {
+        padding: 5px 15px;
+    }
+    /*=======deal form media=======*/
+    /*==============*/
+    /*======================================================blog page=======================================================*/
+    #blog .thumb {
+        padding-right: 0;
+        padding-left: 10px;
+    }
+    #blog .about-blog p {
+        padding: 0 0;
+    }
+    #blog .tags a {
+        line-height: 35px;
+    }
+    
+    /*======================================================blog page=======================================================*/
+}
